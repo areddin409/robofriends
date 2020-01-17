@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'MyWebFont';
+  src: url('Robo.ttf');
+}
+
+h1 {
+  font-family: 'MyWebFont';
+  background: -webkit-linear-gradient(#eee, #438299);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
