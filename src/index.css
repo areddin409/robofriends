@@ -2,9 +2,5 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background: linear-gradient(
-    to left,
-    rgb(205, 29, 70) 0%,
-    rgb(29, 158, 205) 100%
-  );
+  background: linear-gradient(to right, #b1beb3 0%, #172930 100%);
 }
